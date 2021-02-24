@@ -8,3 +8,24 @@ body
 h1{
     font-family: 'Indie Flower', cursive;
 }
+
+header{
+    text-align: center;
+    background-color: #9A8C98;
+}
+
+div > ul{
+    list-style-type: none;
+}
+
+.Menu{
+    text-align: center;
+}
+
+ul{
+    color:teal
+}
+
+.pancake{
+    float: right;
+}
